@@ -1,20 +1,12 @@
 # About me
 
-Hi, I'm Nick 👋
+Senior Application Developer from Hong Kong, now based in the UK.
 
-I'm from Hong Kong and now live in the UK. I've spent my whole career in IT and currently work as a Senior Application Developer.
-
-These days I'm mostly interested in:
-
-- Microsoft Power Platform
-- Python and APIs
-- SQL
-- GitHub and GitHub Copilot
-- AI-assisted development
-- Django, JavaScript and React
-
-I'm particularly interested in using technology to solve actual business problems rather than building complicated things just because we can.
-
-📫 **Contact:** nick.koo@driscolls.com
-
-⚡ **Fun fact:** I microwave sandwiches. I stand by this decision.
+- 🌱 Microsoft Power Platform, Power Apps and Power Automate
+- 🤖 Exploring local LLMs, Ollama, RAG and GitHub Copilot
+- 💻 Python, SQL, APIs and Django
+- 👀 JavaScript and React
+- ☁️ AWS Certified Cloud Practitioner
+- 🎓 Somehow collected two Master's degrees (MBA and Software Technology) and a Bachelor's degree in Computer and Information Systems. Still waiting to find a use for them.
+- 📫 nick.koo@driscolls.com
+- ⚡ I microwave sandwiches. I stand by this decision.
